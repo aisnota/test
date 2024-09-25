@@ -10,6 +10,7 @@ git log
 git checkout 해시코드 7자리
 git checkout -
 git branch -M main(브랜치 바꾸기)
+git remote add origin https://github.com/깃아이디/리포지토리이름.git
 
 
 리눅스 기초 명령어
@@ -25,5 +26,10 @@ cat 파일명
                 		  	      |      |
 				              ⌊___⌋
 뿅뿅
+
+컴퓨터는 로컬
+여기서 리모트에 업로드를 해야함
+local -upload-> remote
+push는 upload 명령어
 
 
