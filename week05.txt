@@ -1,0 +1,29 @@
+git init(초기화, 깃에 cctv달기)
+git status
+git add "파일명 또는."
+git commit -m "메세지
+현재 컴퓨터에서 첫번째 커밋 시도 시
+please tell me who you are
+git config --global user.name "아이디"
+git config --global user.email "이메일"
+git log
+git checkout 해시코드 7자리
+git checkout -
+git branch -M main(브랜치 바꾸기)
+
+
+리눅스 기초 명령어
+touch 파일명
+ls
+ls -a
+pwd
+cat 파일명
+
+	*	⌈¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯⌉
+*		⌊_______________________       |
+        		                     ⌊      |
+                		  	      |      |
+				              ⌊___⌋
+뿅뿅
+
+
