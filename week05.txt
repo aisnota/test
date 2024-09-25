@@ -11,6 +11,12 @@ git checkout 해시코드 7자리
 git checkout -
 git branch -M main(브랜치 바꾸기)
 git remote add origin https://github.com/깃아이디/리포지토리이름.git
+git config -list
+git clone https://github.com/aisnota/test.git (전체파일 불러오기)
+git clone https://github.com/aisnota/test.git . (안에 있는 파일만 불러오기
+동기화 수시로 안하면 로컬이랑 원격에서 충돌이 날 수 있음
+ -> 이경우 원격을 지우고 로컬에서 다시 불러오거나 로컬을 지우고 원격에서 불러와야함
+
 
 
 리눅스 기초 명령어
@@ -31,5 +37,8 @@ cat 파일명
 여기서 리모트에 업로드를 해야함
 local -upload-> remote
 push는 upload 명령어
+git push -u origin main
+-u: 한번 올리면 생략할 수 있게 만드는 옵션
+->다음부터는 git push만 써도 업로드 가능
 
 
